@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"SW_PFL1,SW_AFL1,SW_CUT1,SW_ACC1";"SW_NKK_JB";4;"SPST";;;
+2;"R3,R2,R4";"R_0805_2012Metric";3;"600R";;;
+3;"R1";"R_0805_2012Metric";1;"620R";;;
+4;"H1";"JST_PH_B10B-PH-K_1x10_P2.00mm_Vertical";1;"Conn_01x10";;;
