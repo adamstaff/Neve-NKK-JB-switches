@@ -2179,7 +2179,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B10B-PH-K_1x10_P2.00mm_Vertical"
+		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-10A_1x10_P2.54mm_Vertical"
 			(at 48.26 52.07 0)
 			(effects
 				(font
