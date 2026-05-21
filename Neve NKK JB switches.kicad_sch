@@ -853,6 +853,39 @@
 		)
 		(uuid "4e94b7db-a763-4941-893d-d3239e5416e4")
 	)
+	(text "Resistor values in a context of 8V supply:\n\nRed: 620\nYellow: 600\n\n1st prototype used 680r, yellow particularly dim, red OK"
+		(exclude_from_sim no)
+		(at 122.428 74.422 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6c236b0a-d39e-4dae-b6cb-24889907bec5")
+	)
+	(text "R = (E-Vf) / If\n\nWhere R = Resistor value (ohms)\nE = Source Voltage (V)\nVf = Forward Voltage (V)\nIf = Forward Current (A)"
+		(exclude_from_sim no)
+		(at 122.682 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a48587ed-97d0-4ac5-a1e9-9535d83960ac")
+	)
+	(text "Red: Vf = 1.8V, If = 10mA\nYellow: Vf = 2V, If = 10mA"
+		(exclude_from_sim no)
+		(at 122.682 61.214 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d1f40479-925a-4ffb-be98-d3590345f7b4")
+	)
 	(junction
 		(at 83.82 78.74)
 		(diameter 0)
