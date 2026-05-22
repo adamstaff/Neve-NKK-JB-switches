@@ -2983,7 +2983,7 @@
 		(pts
 			(xy 123 121.92) (xy 92.964 121.92)
 		)
-		(height 7.88)
+		(height 7.08)
 		(orientation 0)
 		(format
 			(prefix "")
@@ -3003,7 +3003,7 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "30.036"
-			(at 107.982 128.65 0)
+			(at 107.982 127.85 0)
 			(layer "Dwgs.User")
 			(uuid "6c980a01-507e-4297-8783-35c60460d1c2")
 			(effects
